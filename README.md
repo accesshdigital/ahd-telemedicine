@@ -212,39 +212,6 @@ You may create your dashboard or import the Micrometer/SpringBoot dashboard via 
 
 ### Using MDDS valuset with Telemed Application:
 
-https://p193z7.deta.dev/facility_type_values
-
-https://p193z7.deta.dev/health_individual_care_provider_number_type_values
-
-https://p193z7.deta.dev/healthcare_plan_type_values
-
-https://p193z7.deta.dev/admission_type_values
-
-https://p193z7.deta.dev/discharge_status_values
-
-https://p193z7.deta.dev/allergy_product_values
-
-https://p193z7.deta.dev/icd10_master_values
-
-https://p193z7.deta.dev/severity_codes_master_values
-
-https://p193z7.deta.dev/status_codes_values
-
-https://p193z7.deta.dev/medical_speciality_type_values
-
-https://p193z7.deta.dev/registration_authority_values
-
-https://p193z7.deta.dev/healthcare_applications_master_values
-
-https://p193z7.deta.dev/health_service_provider_role_values
-
-https://p193z7.deta.dev/blood_group_values
-
-https://p193z7.deta.dev/ownership_authority_type_values
-
-https://p193z7.deta.dev/alternate_uhid_type_values
-
-
 
 PLease refer to our MDDS XML/XSD for complete valuset refrence 
 https://github.com/accesshdigital/Health-Data-Dictionary-HDD-for-India
