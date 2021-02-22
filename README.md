@@ -249,3 +249,8 @@ https://p193z7.deta.dev/alternate_uhid_type_values
 PLease refer to our MDDS XML/XSD for complete valuset refrence 
 https://github.com/accesshdigital/Health-Data-Dictionary-HDD-for-India
 
+
+### Using Event Sourcing and CQRS using Eventuate Tram(https://eventuate.io/)
+
+Eventuate Tram - a framework for services that use traditional (e.g. JPA/JDBC and Entity Framework) persistence. You can easily add Eventuate Tram to this aplication at database /persistance layer.
+
