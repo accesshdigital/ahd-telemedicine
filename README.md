@@ -246,4 +246,6 @@ https://p193z7.deta.dev/alternate_uhid_type_values
 
 
 
-PLease refer our MDDS XML/XSD for complete valuset refrence
+PLease refer to our MDDS XML/XSD for complete valuset refrence 
+https://github.com/accesshdigital/Health-Data-Dictionary-HDD-for-India
+
